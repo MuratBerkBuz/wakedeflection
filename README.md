@@ -1,2 +1,2 @@
 "our_turbine.yaml" file should be added to floris turbine library
-it could be found in ".\ocp_env\Lib\site-packages\floris\turbine_library"
+It could be found in Floris library installed in your environment ".\Lib\site-packages\floris\turbine_library"
