@@ -79,7 +79,7 @@ if __name__ == "__main__":
 
     # Initialize a VelocityProfilesFigure. The workflow is similar to a matplotlib Figure:
     # Initialize it, plot data, and then customize it further if needed.
-    print(downstream_dists)
+
     profiles_fig = VelocityProfilesFigure(
         downstream_dists_D=downstream_dists / D,
         layout=["cross-stream"],
